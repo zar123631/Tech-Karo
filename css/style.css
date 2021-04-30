@@ -1,0 +1,66 @@
+.menu {
+    overflow: hidden;
+} 
+
+#heading {
+    text-align: center;
+    padding-top: 50px;
+}
+
+.right {
+    display: inline;
+    padding: 12px;
+    padding-top: 50px; 
+    margin:0px ;
+    float: right;
+} 
+
+.left {
+    display: inline;
+    padding: 5px;
+    margin:0px ;
+    float: left;
+}
+
+.link {
+    text-decoration: none;
+    color: black;
+}
+
+.link:hover {
+    color: grey;
+}
+
+#red-block {
+    background-color: rgb(231, 38, 80);
+    height: 100px;
+    width: auto;
+}
+
+#lets-code {
+    height: 67;
+    float: right;
+    padding: 20px;
+}
+
+.paragraph {
+    padding-left:40px;
+    padding-right:40px;
+    padding-top:0px;
+    text-align: center;
+}
+
+.techkaro {
+   position: relative; 
+   width: 50%;
+   left: 342px;
+}
+
+.contact {
+    text-align:center;
+}
+
+#logo {
+    width: 95px;  
+    position: static;
+}
